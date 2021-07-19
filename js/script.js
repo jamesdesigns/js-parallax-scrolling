@@ -87,15 +87,6 @@ $(function () {
       rotation: 30,
     })
 
-    // let parachuteScene = new ScrollMagic.Scene({
-    //   triggerElement: '#friend',
-    //   duration: '170%',
-    //   triggerHook: 0,
-    // })
-    // .setTween(parachuteTween)
-    // .addIndicators({ name: 'Parachute' })
-    // .addTo(controller)
-
   new ScrollMagic.Scene({
     triggerElement: '#friend',
     duration: '170%',
